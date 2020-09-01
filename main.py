@@ -5,4 +5,4 @@ if(cOrF.lower() == "c"):
 elif(cOrF.lower() == "f"):
     print(f"{temp}° in Fahrenheit is equivalent to {(float(temp)-32)*5/9}° Celsius.")
 else:
-    print(f"Invalid unit({cOrF})")
+    print(f"Invalid unit({cOrF}).")
