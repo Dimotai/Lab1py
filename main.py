@@ -1,8 +1,7 @@
-# Matthew Bronstein msb5970@psu.edu
-# Sana Tipnis sat5652@psu.edu
-# Pradhyumna Adusumilli pza5189@psu.edu
-
-# Tim Dai tfd5244@psu.edu (Myself)
+# Author: Tim Dai tfd5244@psu.edu (Myself)
+# Collaborator: Matthew Bronstein msb5970@psu.edu
+# Collaborator: Sana Tipnis sat5652@psu.edu
+# Collaborator: Pradhyumna Adusumilli pza5189@psu.edu
 
 
 
