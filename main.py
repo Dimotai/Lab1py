@@ -1,3 +1,11 @@
+# Matthew Bronstein msb5970@psu.edu
+# Sana Tipnis sat5652@psu.edu
+# Pradhyumna Adusumilli pza5189@psu.edu
+
+# Tim Dai tfd5244@psu.edu (Myself)
+
+
+
 temp = input("Enter temperature: ")
 cOrF = input("Enter unit in F/f or C/c: ")
 if(cOrF.lower() == "c"):
